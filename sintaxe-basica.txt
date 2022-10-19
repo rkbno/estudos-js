@@ -1,0 +1,60 @@
+todas as intruções (statements) termina em ;
+ var x = 15;
+ var y = 12;
+
+valores que existem sao literais e variaveis
+
+literais = sao fixos
+
+10;
+10.5;
+
+"Ola mundo";
+'Ola mundo';
+
+
+variaveis = variam de acordo com nossa necessidade
+
+var x;
+
+podemos atribuir algum outro valor as variaveis, exemplo:
+
+os operadores
+
+x = 10;
+ 
+operador aritmetico (que seria os sinais) 
+
+10 + 5; 
+
+20 - 19;
+
+40 * 5;
+
+20 / 10;
+
+
+quando juntamos operadores e valores temos as expressões 
+
+expressões podem conter tanto valor literais quanto variaveis, ou seja
+
+y + 10;
+
+20 * 30;
+
+x * y;
+
+
+idetificadores (nomes possíveis para um variavel)
+
+normalmente sao feitas numa formatação camel case 
+
+(olaMundo)
+
+
+variavel sempre começa com:
+
+var $1;
+var _1;
+var ola;
+var olaMundo;
